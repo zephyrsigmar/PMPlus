@@ -1,0 +1,9 @@
+name: PMPlus
+author: Zephyr
+main: me.zephyr.PrivateMessage.PrivateMessage
+version: 0.1
+commands:
+   pm:
+      usage: <command>
+   privatemessage:
+      usage: <command>
